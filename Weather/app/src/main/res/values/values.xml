@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Прогноз погоды</string>
-    <string name="title">Погода</string>
+    <string name="title">Берёза</string>
+    <string name="week_day">Понедельник</string>
+    <string name="day">День</string>
+    <string name="night">Ночь</string>
+    <string name="day_val">0</string>
+    <string name="night_val">0</string>
+    <string name="humidity">Влажность</string>
+    <string name="wind_speed">Скорость ветра</string>
+    <string name="pressure">Давлениe</string>
 </resources>
